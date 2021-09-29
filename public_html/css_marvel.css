@@ -54,14 +54,14 @@ nav ul {
 	font-family: arial, sans-serif;
 }
 nav li {
-	float: center;
+	float: left;
 	background-color: darkred;
 }
-nav li a: hover {
+nav li a:hover {
 	background-color: black;
 }
 nav li a {
-	dispay: black;
+	display: black;
 	color: gold;
 	font-style: italic;
 	text-decoration: underline;
@@ -71,4 +71,47 @@ nav li a {
 }
 table, th, td {
   border: 5px solid black;
+}
+
+#Marvel_Explained {
+    font-size: 17px;
+}
+#AIW {
+    font-size: 17px;
+}
+#Plot {
+    font-size: 17px;
+}
+#Endgame {
+    font-size: 17px;
+}
+#marvel {
+    font-size: 17px;
+}
+#film {
+    font-size: 17px;
+}
+#watch {
+    font-size: 17px;
+}
+#wakanda {
+    font-size: 17px;
+}
+#vibranium {
+    font-size: 17px;
+}
+#steal {
+    font-size: 17px;
+}
+#king {
+    font-size: 17px;
+}
+#conflict {
+    font-size: 17px;
+}
+.thor {
+    font-size: 17px;
+}
+.iron_man {
+    font-size: 17px;
 }
