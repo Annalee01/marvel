@@ -1,0 +1,74 @@
+body {
+	background-color: darkred;
+	color: gold;
+	border: solid;
+}
+header {
+	background-color: darkred;
+	color: gold;
+	font-size: 25px;
+	font-family: Georgia, Palatino, 'Century SchoolBook', fantasy;
+	margin-top: 40px;
+}
+section {
+	background-color: gold;
+	max-width: 800px;
+	padding: 5px;
+}
+article {
+	border-width: 10px;
+	border-color: black;
+	border-style: solid;
+	margin: 10px;
+	border-radius: 20px;
+}
+h1 {
+	text-align: center;
+	font-family: serif;
+	text-decoration: underline;
+	text-decoration-color: black;
+}
+h2 {
+	text-align: center;
+	font-family: serif;
+	text-decoration: underline;
+	text-decoration-color: black;
+}
+h3 {
+	text-align: center;
+	font-family: serif;
+	text-decoration: underline;
+	text-decoration-color: black;
+}
+
+.prerequisite {
+	color: #800000;
+	font-style: italic;
+	display: inline;
+}
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color: #999;
+	font-family: arial, sans-serif;
+}
+nav li {
+	float: center;
+	background-color: darkred;
+}
+nav li a: hover {
+	background-color: black;
+}
+nav li a {
+	dispay: black;
+	color: gold;
+	font-style: italic;
+	text-decoration: underline;
+	text-decoration-color: black;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+table, th, td {
+  border: 5px solid black;
+}
